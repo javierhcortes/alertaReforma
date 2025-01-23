@@ -1,7 +1,7 @@
 +++
 date = '2025-01-20T12:08:38-03:00'
 draft = false
-title = 'Alerta sobre la Reforma de Pensiones: Un Llamado a la Acción'
+title = 'Sobre la Reforma de Pensiones: Un Llamado a la Acción'
 image = "/img/posts/img-1.jpg"
 +++
 

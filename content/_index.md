@@ -1,10 +1,10 @@
 ---
 type : "tags"
 layout : "about"
-title: "¡Bienvenido !"
+title: "¡Bienvenido!"
 
 ---
 
-## bienvenidos a reforma Alerta!
+## Bienvenidos a "Alerta Reformas"
 
- revisaremos leyes controversiales e informaremos de sus representantes y las votaciones que se realizaran en el congreso.
+ Nuestra opinion sobre leyes controversiales e información sobre como vota tu representante.
