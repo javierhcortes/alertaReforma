@@ -16,7 +16,7 @@ Es fundamental que tu legislador, considere las implicancias de esta reforma. La
 
 ## Imagen resumen
 Esquema de comparacion sistema actual vs reforma. (porcentajes han sufrido cambios) **Agregando mas complejidad al sistema**
-![grafico_reforma](/img/posts/grafico_reforma.jpg)
+![grafico_reforma](/alertareforma/img/posts/grafico_reforma.jpg)
 
 [Link original SPensiones.cl](https://www.spensiones.cl/portal/institucional/594/articles-15608_recurso_1.pdf)
 
